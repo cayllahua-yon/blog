@@ -1,0 +1,2 @@
+# blog
+Iniciando un blog
